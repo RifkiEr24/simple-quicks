@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/Accordion";
 import { getTodos } from "@/services/todo";
 import { useEffect, useState } from "react";
-import { Checkbox } from "./checkbox";
+import { Checkbox } from "./Checkbox";
 import clsx from "clsx";
 import IconClock from "../icon/IconClock";
 import IconCalendar from "../icon/IconCalendar";
